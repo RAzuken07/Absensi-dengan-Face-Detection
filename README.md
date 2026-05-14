@@ -876,8 +876,8 @@ flutter run
 | Role | Username | Password |
 |------|----------|----------|
 | Admin | admin | admin123 |
-| Dosen | 202357301001 | dosen123 |
-| Mahasiswa | 2023573010085 | mahasiswa123 |
+| Dosen | dosen | dosen123 |
+| Mahasiswa | mahasiswa | mahasiswa123 |
 
 ---
 
