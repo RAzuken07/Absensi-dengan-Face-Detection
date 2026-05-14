@@ -972,10 +972,3 @@ flutter run
 - [ ] Dark mode toggle
 
 ---
-
-
-This project is for educational purposes. All rights reserved.
-
----
-
-**Made with ❤️ for PNL Campus**
