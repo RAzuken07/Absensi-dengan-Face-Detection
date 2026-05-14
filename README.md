@@ -884,37 +884,37 @@ flutter run
 ## ✨ Key Features
 
 ### Admin Features
-- ✅ CRUD Dosen, Mahasiswa, Mata Kuliah, Kelas
-- ✅ Assign dosen ke kelas dengan jadwal spesifik
-- ✅ Manajemen multi-assignment (dosen bisa mengajar kelas yang sama di waktu berbeda)
+- CRUD Dosen, Mahasiswa, Mata Kuliah, Kelas
+- Assign dosen ke kelas dengan jadwal spesifik
+- Manajemen multi-assignment (dosen bisa mengajar kelas yang sama di waktu berbeda)
 
 ### Dosen Features
-- ✅ Face registration & verification sebelum buka sesi
-- ✅ Generate QR code untuk sesi absensi
-- ✅ Auto-generate pertemuan_ke
-- ✅ Monitor kehadiran real-time
-- ✅ Lihat daftar kehadiran per pertemuan
-- ✅ Tutup sesi absensi
+- Face registration & verification sebelum buka sesi
+- Generate QR code untuk sesi absensi
+- Auto-generate pertemuan_ke
+- Monitor kehadiran real-time
+- Lihat daftar kehadiran per pertemuan
+- Tutup sesi absensi
 
 ### Mahasiswa Features
-- ✅ Face registration untuk verifikasi
-- ✅ Scan QR code untuk absensi
-- ✅ Face verification saat submit absensi
-- ✅ Location verification
-- ✅ Lihat daftar 16 pertemuan per mata kuliah
-- ✅ Status kehadiran per pertemuan (Hadir/Tidak Hadir/Belum Ada Sesi)
+- Face registration untuk verifikasi
+- Scan QR code untuk absensi
+- Face verification saat submit absensi
+- Location verification
+- Lihat daftar 16 pertemuan per mata kuliah
+- Status kehadiran per pertemuan (Hadir/Tidak Hadir/Belum Ada Sesi)
 
 ---
 
 ## 🎨 UI/UX Features
 
-- ✅ Gradient background consistency across all screens
-- ✅ Modern AppBar with proper theming
-- ✅ Full-screen camera preview (no black areas)
-- ✅ Responsive time pickers for schedule input
-- ✅ Card-based layouts with shadows
-- ✅ Smooth animations and transitions
-- ✅ Color-coded status indicators
+- Gradient background consistency across all screens
+- Modern AppBar with proper theming
+- Full-screen camera preview (no black areas)
+- Responsive time pickers for schedule input
+- Card-based layouts with shadows
+- Smooth animations and transitions
+- Color-coded status indicators
 
 ---
 
@@ -957,12 +957,12 @@ flutter run
 ## 📝 Development Notes
 
 ### Recent Updates
-- ✅ Fixed schedule display using `kelas_dosen` table
-- ✅ Added schedule fields to kelas management form
-- ✅ Fixed UI backgrounds to full screen
-- ✅ Fixed camera preview aspect ratio
-- ✅ Removed unused Riwayat & Statistik features
-- ✅ Consistent gradient theming across all screens
+- Fixed schedule display using `kelas_dosen` table
+- Added schedule fields to kelas management form
+- Fixed UI backgrounds to full screen
+- Fixed camera preview aspect ratio
+- Removed unused Riwayat & Statistik features
+- Consistent gradient theming across all screens
 
 ### Future Enhancements
 - [ ] Push notifications for new sesi
@@ -973,13 +973,6 @@ flutter run
 
 ---
 
-## 📞 Support
-
-For issues or questions, contact the development team or create an issue in the repository.
-
----
-
-## 📄 License
 
 This project is for educational purposes. All rights reserved.
 
