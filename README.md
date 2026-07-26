@@ -4,6 +4,8 @@ Aplikasi mobile berbasis Flutter untuk manajemen absensi kampus dengan verifikas
 
 ## 📱 Tech Stack
 
+## FULL VIBECODING
+
 ### Frontend
 - **Framework**: Flutter 3.x
 - **State Management**: Riverpod
